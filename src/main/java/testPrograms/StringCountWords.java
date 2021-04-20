@@ -2,7 +2,7 @@ package testPrograms;
 
 import java.util.HashMap;
 
-import org.apache.commons.collections4.map.HashedMap;
+
 
 public class StringCountWords {
 
