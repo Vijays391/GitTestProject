@@ -9,8 +9,8 @@ public class StringCountWords {
 
 	public static void main(String[] args) {
 
-		String str="This is vijay vijay and shri and shri";
-		String[] split=str.split(" ");
+		String str2="This is vijay vijay and shri and shri";
+		String[] split=str2.split(" ");
 
 		HashMap<String,Integer> map=new HashMap<String, Integer>();
 
